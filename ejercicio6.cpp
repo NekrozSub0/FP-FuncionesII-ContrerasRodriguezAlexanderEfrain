@@ -79,7 +79,7 @@ int main(){
 	} if(victoriascomputadora>victoriasjugador){
 		cout<<"GANA LA COMPUTADORA, RONDAS GANADAS: "<<victoriascomputadora<<endl;
 	} else {
-		cout<<"EL RESULTADO ES UN EMPATE"<<endl;
+		cout<<"EL RESULTADO ES EMPATE"<<endl;
 	}
 	cout<<"PUNTOS: "<<endl;
 	cout<<"Victorias jugador: "<<victoriasjugador<<endl;
