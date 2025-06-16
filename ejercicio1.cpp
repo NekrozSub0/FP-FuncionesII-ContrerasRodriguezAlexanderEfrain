@@ -12,4 +12,5 @@ int main(){
 	areacirculo=(M_PI*(pow(radio,2)));
 	//Salida
 	cout<<"El area del ciruclo es: "<<areacirculo<<endl;
+	return 0;
 }
