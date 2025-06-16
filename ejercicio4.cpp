@@ -6,7 +6,6 @@ using namespace std;
 int main(){
 	double a, b, c;
 	double raiz1, raiz2;
-	double resultado;
 	//Entrada
 	cout<<"Ingrese el valor del coeficiente a: "<<endl;
 	cin>>a;
