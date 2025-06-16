@@ -29,6 +29,7 @@ int main(){
 				break;
 			default:
 				cout<<"Error en jugada"<<endl;
+			break;
 			}
 		break;
 		case 1:
@@ -46,6 +47,7 @@ int main(){
 				break;	
 			default:
 				cout<<"Error en jugada"<<endl;
+			break;
 			}
 		break;
 		case 2:
@@ -63,10 +65,12 @@ int main(){
 				break;
 			default:	
 				cout<<"Error en jugada"<<endl;	
+			break;
 			}
 		break;
 		default:
 			cout<<"Error en jugada"<<endl;
+		break;
 		}
 	}
 	//SALIDA
